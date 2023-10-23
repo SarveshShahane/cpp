@@ -4,6 +4,6 @@ int main()
   String n ;
   cout<<"Enter your name"<<endl;
   cin>>n;
-  cout<<"Name : <<n<<endl;
+  cout<<"your name is: <<n<<endl;
   return 0;
 }
